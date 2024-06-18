@@ -52,7 +52,7 @@ linkedin_username: elizabethscherrer
 # about_title: About Me (Use this to override about section title)
 about_profile_image: pictures/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  As a Computer Science student, I am dedicated to exploring the cutting-edge of technology and all of it's potential. I have gained my skills through hands-on projects and coursework. Throughout my collegiate career I have become increasingly more interested in the unbounded limits of technology and I'm excited to bring forth my skills into a real-world setting. I also love to run, play soccer and am a big Buffalo Bills fan.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
