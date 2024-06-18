@@ -55,7 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
   As a Computer Science student, I am dedicated to exploring the cutting-edge of technology and all of it's potential. I have gained my skills through hands-on projects and coursework. Throughout my collegiate career I have become increasingly more interested in the unbounded limits of technology and I'm excited to bring forth my skills into a real-world setting.
   I am currently an intern at Wendel Companies specializing as a Network Administrator. I also have experience in customer service.
   I have a dog named Casey and love to watch Michigan State sports! Go Green!
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
