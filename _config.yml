@@ -82,7 +82,7 @@ content:
       - layout: right
         title: Wendel
         sub_title: Network Administrator Intern
-        caption: Date Range (eg. May 2024 - present)
+        caption: May 2024 - present
         link: https://wendelcompanies.com/
         quote: >
           Engineering company located in Western New York specializing in construction management, energy efficiency, and architecture.
@@ -94,18 +94,18 @@ content:
       - layout: top-right
         title: Michigan State University
         sub_title: BA Computer Science
-        caption: Date Range (eg. 2021 - 2025)
+        caption: 2021 - 2025
         quote: >
           College of Engineering
         description: | #this will include 
           Engineering courses: Introduction to Programming I, Ethical and Professional Issues in Computing, Discrete Structures, Calculus I, II & III, Physics for Engineers I & II
     
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Communication: Skillful in collaborating effectively and ensuring timely responses to all communication and tasks.
+      Software Tools: Certified in Microsoft Office. Proficient in Microsoft Word, Excel, and PowerPoint, boosting accuracy and productivity in administrative tasks.
+      Programming Languages: Experience in Python, and C++. Created programs to solve real-world problems. Enhanced efficiency in group-led, tech-driven projects.
 
 # Footer
 footer_show_references: true
