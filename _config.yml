@@ -85,9 +85,9 @@ content:
         caption: Date Range (eg. May 2024 - present)
         link: https://wendelcompanies.com/
         quote: >
-          Short description of the company (optional)
+          Engineering company located in Western New York specializing in construction management, energy efficiency, and architecture.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Manages organizations network. Maintain and troubleshoot computer networks to ensure efficiency of company. Ensure networks maintain confedentiality and security.
   - title: Education
     layout: list
     content:
