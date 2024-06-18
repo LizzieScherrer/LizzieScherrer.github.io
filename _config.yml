@@ -104,7 +104,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       -Communication: Skillful in collaborating effectively and ensuring timely responses to all communication and tasks.
+      
       -Software Tools: Certified in Microsoft Office. Proficient in Microsoft Word, Excel, and PowerPoint, boosting accuracy and productivity in administrative tasks.
+      
       -Programming Languages: Experience in Python, and C++. Created programs to solve real-world problems. Enhanced efficiency in group-led, tech-driven projects.
 
 # Footer
